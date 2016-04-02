@@ -4,7 +4,7 @@
 /* Write a program that reads an integer and prints whether it is negative, zero, or positive.
 /*-------------------------------------------------------------------------
 // AUTHOR: King of Rock
-// FILENAME: AbsoluteValue
+// FILENAME: Exercise3_15.java
 // SPECIFICATION: if/else
 // FOR: Chapter 3, Exercise 3.15
 // TIME SPENT: 45
